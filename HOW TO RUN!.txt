@@ -1,0 +1,8 @@
+How Tu run This
+
+1.Import project in netbean
+2.There is Folder which includes Jar Files import all in Library (when they are not!)
+3.create database(You can create it with exsting name or name you want but remember to change it in database connnection file) 
+4.IN project folder There is Folder Called Import database Import those files in Mysql (I used Mysql Workbench ) Also you can import it in Mysql phpmyadmin
+5.Run !
+6. Login Credential Username: BenIraa Password: 1234
